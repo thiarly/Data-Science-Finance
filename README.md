@@ -1,6 +1,6 @@
-# Curso de Data Science para Finanças
+# 📊 Data Science for Finance
 
-# Bibliotecas Necessárias
+# 📚 Bibliotecas Necessárias
 
 Este curso utiliza várias bibliotecas Python amplamente conhecidas e utilizadas na área de Data Science e Finanças. Abaixo, você encontrará uma lista das bibliotecas necessárias e uma breve descrição de cada uma:
 
