@@ -1,0 +1,30 @@
+PROJETO BALANCEAMENTO CARTEIRA DE AÇÕES:
+
+1- ler a base de dados filtrando pela aba 'cv' ✅
+
+2- criar um df com base 'cv' ✅
+    2.1- agrupar todos os ativos por nome e soma os valores ✅
+
+3- celecionar apenas os ativos que tenho atual ✅
+    3.1 - remover os ativos indesejados (poupança, irbr1, dolar, mxrf12) ✅
+
+4- baixar a cotação atual do yfinance ✅
+
+5- mutplicar a colunar do df_total_acoes pela cotação atual✅
+    5.1 - varial df_valor_total_acoes✅
+
+6- criar um variavel patrimonio_total, somando o valor total df_valor_total_acoes✅
+
+7- dividir valor patrimonio de cada acao pelo patrimonio total✅
+    7.1 armazenar o as % em uma variavel✅
+
+8- criar um dataframe com % dejesado em casa ação
+
+
+
+
+
+
+
+
+
