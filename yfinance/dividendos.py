@@ -12,11 +12,7 @@ vale_splits_dividendos = vale3.actions
 vale_dividendos = vale3.dividends
 vale_institutional_holders = vale3.institutional_holders
 
-
-
-
-
-stocks = ['BBAS3', 'BBSE3','TRPL4', 'JHSF3','EGIE3', 'FLRY3','BBDC4', 'BBDC3','SAPR4', 'ITSA4','TAEE3', 'ABCB4','SANB3', 'PSSA3']
+stocks = ['BBAS3']# 'BBSE3','TRPL4', 'JHSF3','EGIE3', 'FLRY3','BBDC4', 'BBDC3','SAPR4', 'ITSA4','TAEE3', 'ABCB4','SANB3', 'PSSA3'
 stocks = [item + '.SA' for item in stocks]
 
 print('A taxa de dividendos é o total de dividendos esperados em um ano.')
